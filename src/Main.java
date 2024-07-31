@@ -1,4 +1,4 @@
-package main;
+import main.Cognicalc;
 
 class Main {
 

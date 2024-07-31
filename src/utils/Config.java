@@ -3,7 +3,7 @@ package utils;
 public class Config {
     public static String appTitleString="Cognicalc";
 
-    public static String numbersFormat = "%, .2f";
+    public static String numbersFormat = "%,.2f";
 
     public static int maxDisplayFontSize = 80;
 
